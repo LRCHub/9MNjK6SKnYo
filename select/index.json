@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "水流のロック (日食なつこ)  Piano Arrange ver.／ダズビー COVER",
+  "base_artist": "ダズビー",
+  "createdAt": "2026-02-09T16:54:22.630194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水流のロック",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/01_水流のロック_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水流のロック",
+      "artist": "日食なつこ",
+      "has_synced": true,
+      "path": "select/02_水流のロック_日食なつこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水流のロック",
+      "artist": "Natsuko Nisshoku",
+      "has_synced": true,
+      "path": "select/03_水流のロック_Natsuko_Nisshoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水流のロック",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_水流のロック_ダズビー.txt"
+    }
+  ]
+}
